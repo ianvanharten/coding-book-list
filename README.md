@@ -1,11 +1,12 @@
 # Coding Book List
 
+- Apprenticeship Patterns by David Hoover and Adewale Oshineye ✅
+- Mindset by Carol Dweck ✅
 - The Clean Coder by Robert Martin
 - Clean Code by Robert Martin
 - The Pragmatic Programmer by Andy Hunt and David Thomas
 - Extreme Programming Explained by Kent Beck
 - Refactoring by Martin Fowler
-- Apprenticeship Patterns by David Hoover and Adewale Oshineye ✔️
 - The Art of Computer Programming by Donald Knuth
 - Programming Pearls by John Bentley
 - Algorithms to Live By by Brian Christian and Tom Griffiths
@@ -14,4 +15,4 @@
 - The Phoenix Project by Gene Kim
 
 ## Currently Reading
-Mindset by Carol Dweck
+The Passionate Programmer by Chad Fowler
