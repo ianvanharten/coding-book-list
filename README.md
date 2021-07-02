@@ -1,10 +1,7 @@
 # Coding Book List
 
-- Apprenticeship Patterns by David Hoover and Adewale Oshineye ✅
-- Mindset by Carol Dweck ✅
-- The Clean Coder by Robert Martin
+## Skills/Knowledge Development
 - Clean Code by Robert Martin
-- The Pragmatic Programmer by Andy Hunt and David Thomas
 - Extreme Programming Explained by Kent Beck
 - Refactoring by Martin Fowler
 - The Art of Computer Programming by Donald Knuth
@@ -12,7 +9,27 @@
 - Algorithms to Live By by Brian Christian and Tom Griffiths
 - Working Effectively with Legacy Code by Michael Feathers
 - Build APIs You Won't Hate by Phil Sturgeon
+
+## Career Development
+- The Clean Coder by Robert Martin
+- The Pragmatic Programmer by Andy Hunt and David Thomas
+- Apprenticeship Patterns by David Hoover and Adewale Oshineye ✅
+- Mindset by Carol Dweck ✅
 - The Phoenix Project by Gene Kim
 
+## History/Biography
+- iWoz by Steve Wozniak
+- Steve Jobs by Walter Isaacson
+- What the Dormouse Said by John Markoff
+- The Soul of a New Machine by Tracy Kidder
+- Hackers: Heroes of the Computer Revolution by Steven Levy
+- Where Wizards Stay Up Late: The Origins of the Internet by Katie Hafner
+- The Victorian Internet by Tom Standage
+
 ## Currently Reading
-The Passionate Programmer by Chad Fowler
+- The Passionate Programmer by Chad Fowler
+
+Links:
+10 Best Computer History Books: https://jackbe.com/a/Cz0Yoe1Zetv9E
+Ask HN: Best Computer Science/History Books: https://news.ycombinator.com/item?id=22692281
+
