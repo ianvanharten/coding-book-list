@@ -15,7 +15,7 @@
 - The Pragmatic Programmer by Andy Hunt and David Thomas
 - Apprenticeship Patterns by David Hoover and Adewale Oshineye ✅
 - Mindset by Carol Dweck ✅
-- - The Passionate Programmer by Chad Fowler ✔️
+- The Passionate Programmer by Chad Fowler ✅
 - The Phoenix Project by Gene Kim
 
 ## History/Biography
