@@ -15,6 +15,7 @@
 - The Pragmatic Programmer by Andy Hunt and David Thomas
 - Apprenticeship Patterns by David Hoover and Adewale Oshineye ✅
 - Mindset by Carol Dweck ✅
+- - The Passionate Programmer by Chad Fowler ✔️
 - The Phoenix Project by Gene Kim
 
 ## History/Biography
@@ -25,9 +26,6 @@
 - Hackers: Heroes of the Computer Revolution by Steven Levy
 - Where Wizards Stay Up Late: The Origins of the Internet by Katie Hafner
 - The Victorian Internet by Tom Standage
-
-## Currently Reading
-- The Passionate Programmer by Chad Fowler
 
 Links:
 10 Best Computer History Books: https://jackbe.com/a/Cz0Yoe1Zetv9E
