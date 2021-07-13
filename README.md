@@ -26,6 +26,7 @@
 - Hackers: Heroes of the Computer Revolution by Steven Levy
 - Where Wizards Stay Up Late: The Origins of the Internet by Katie Hafner
 - The Victorian Internet by Tom Standage
+- The Information: A History, A Theory, A Flood by James Gleick
 
 Links:
 10 Best Computer History Books: https://jackbe.com/a/Cz0Yoe1Zetv9E
