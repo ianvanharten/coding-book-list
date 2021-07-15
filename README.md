@@ -9,6 +9,7 @@
 - Algorithms to Live By by Brian Christian and Tom Griffiths
 - Working Effectively with Legacy Code by Michael Feathers
 - Build APIs You Won't Hate by Phil Sturgeon
+- The Tangled Web: A Guide to Securing Modern Web Applications by Michal Zalewski
 
 ## Career Development
 - The Clean Coder by Robert Martin
