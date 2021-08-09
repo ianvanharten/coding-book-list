@@ -20,6 +20,7 @@
 - The Phoenix Project by Gene Kim
 
 ## History/Biography
+- The Innovators by Walter Isaacson ✅
 - iWoz by Steve Wozniak
 - Steve Jobs by Walter Isaacson
 - What the Dormouse Said by John Markoff
