@@ -10,6 +10,7 @@
 - Working Effectively with Legacy Code by Michael Feathers
 - Build APIs You Won't Hate by Phil Sturgeon
 - The Tangled Web: A Guide to Securing Modern Web Applications by Michal Zalewski
+- Head First Ruby -- Jay McGavren ✅
 
 ## Career Development
 - The Clean Coder by Robert Martin
