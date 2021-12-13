@@ -11,6 +11,7 @@
 - Build APIs You Won't Hate by Phil Sturgeon
 - The Tangled Web: A Guide to Securing Modern Web Applications by Michal Zalewski
 - Head First Ruby -- Jay McGavren ✅
+- Head First Web Design -- Ethan Watrall and Jeff Siarto ✅
 
 ## Career Development
 - The Clean Coder by Robert Martin
