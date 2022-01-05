@@ -12,6 +12,7 @@
 - The Tangled Web: A Guide to Securing Modern Web Applications by Michal Zalewski
 - Head First Ruby -- Jay McGavren ✅
 - Head First Web Design -- Ethan Watrall and Jeff Siarto ✅
+- The Road to React -- Robin Wieruch
 
 ## Career Development
 - The Clean Coder by Robert Martin
