@@ -26,7 +26,7 @@
 - The Innovators by Walter Isaacson ✅
 - Weaving the Web by Tim Berners-Lee ✅
 - Artificial Intelligence: A Thinking Person's Guide by Melanie Mitchell ✅
-- The Age of AI by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher
+- The Age of AI by Henry Kissinger, Eric Schmidt and Daniel Huttenlocher ✅
 - iWoz by Steve Wozniak
 - Steve Jobs by Walter Isaacson
 - What the Dormouse Said by John Markoff
